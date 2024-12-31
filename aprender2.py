@@ -17,3 +17,21 @@ elif code == "Java":
 else:
     print ("Python your ck is the b e s t ")
 
+#Ahora haremos un bucle(while, for, break, continue)
+#while, según entendi el ciclo while ejecuta una sección mientras se cumpla una determinada condición
+a=0
+while a<4:
+    print(a)
+    a+=1
+
+#Ahora veremos el ciclo for, el ciclo for nos permite iterar (repetir) clases iterables
+for i in range(4):
+    print(i)
+
+#Continue salta hasta el final del bloque
+for v1 in range (8):
+    if v1 == 1:
+        continue
+    print(v1)
+
+
