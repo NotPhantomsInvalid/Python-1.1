@@ -6,7 +6,7 @@ Variable1=20
 VariaBle2=30
 
 #Esto esta interesante, podemos asignar múltiples variables en una liena de código
-x,y,z = 1,2,3
+x,y,z = 0,1,2
 
 #Ahora haremos un poco de condicionales (if, elif, else)
 code="Python"
@@ -33,5 +33,15 @@ for v1 in range (8):
     if v1 == 1:
         continue
     print(v1)
+#Break rompe la ejecucion del bucle
+
+x = 0
+while True:
+    print(x)
+    if x == 3:
+        break
+    x += 1
+
+
 
 
