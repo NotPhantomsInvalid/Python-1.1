@@ -2,9 +2,10 @@
 Variable_a= 10
 Variable_b= 'Fernando'
 Variable_c= 3.1415
-Variable1=20
-VariaBle2=30
+Variable_d=20
+VariaBle_e=30
 
+print (Variable_a,Variable_b,Variable_c,Variable_d,VariaBle_e)
 #Esto esta interesante, podemos asignar múltiples variables en una liena de código
 x,y,z = 0,1,2
 
