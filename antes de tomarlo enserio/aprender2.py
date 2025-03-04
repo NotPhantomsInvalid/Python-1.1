@@ -16,7 +16,7 @@ if code == "Python":
 elif code == "Java":
     print("No me mola el M I N E C R A F T JAVA ")
 else:
-    print ("Python your ck is the b e s t ")
+    print ("Python your  is the b e s t ")
 
 #Ahora haremos un bucle(while, for, break, continue)
 #while, según entendi el ciclo while ejecuta una sección mientras se cumpla una determinada condición
