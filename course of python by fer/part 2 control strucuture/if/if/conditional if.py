@@ -24,7 +24,7 @@ if a>3 and a<8:
 
 #If in one block of code
 if a>4: print ("Is > 4"); print ("Is inside the if")
-#Don't do this, its not recommended
+#Don't do it this, its not recommended
 
 #if with else
 if a==4:
